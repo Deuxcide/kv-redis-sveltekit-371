@@ -39,7 +39,7 @@
   <div
     class="w-full max-w-lg mt-6 font-light text-center text-gray-600 dark:text-gray-300"
   >
-    Simple hello world demo of
+    Simple hello world demo of test
     <a
       href="https://vercel.com/kv"
       class="font-medium underline transition-colors underline-offset-4 dark:hover:text-white hover:text-black"
