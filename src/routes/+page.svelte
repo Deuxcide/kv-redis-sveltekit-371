@@ -17,7 +17,7 @@
   <h1
     class="pt-4 pb-8 bg-gradient-to-br dark:from-white from-black via-[#707070] to-[#ffffff] bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
   >
-    Vercel KV test test test
+    Vercel KV 
   </h1>
   <div
     class="flex flex-col items-center w-full max-w-xl p-12 mx-auto rounded-lg shadow-xl dark:bg-white/10 bg-white/30 ring-1 ring-gray-900/5 backdrop-blur-lg"
@@ -39,7 +39,7 @@
   <div
     class="w-full max-w-lg mt-6 font-light text-center text-gray-600 dark:text-gray-300"
   >
-    Simple hello world demo of test
+    Simple hello world demo of 
     <a
       href="https://vercel.com/kv"
       class="font-medium underline transition-colors underline-offset-4 dark:hover:text-white hover:text-black"
